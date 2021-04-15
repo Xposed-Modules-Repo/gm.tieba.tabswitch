@@ -5,7 +5,7 @@
 [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/TabSwitch)
 [![Download](https://img.shields.io/github/v/release/GuhDoy/TiebaTS?label=Download)](https://github.com/GuhDoy/TiebaTS/releases/latest)
 
-## 当前功能
+## 功能
 
 - 修改底栏
 - 净化进吧
@@ -23,7 +23,7 @@
 - 更新时清理缓存
 - 自动查看原图
 - 存储重定向
-- 禁用帖子缩放手势
+- 禁用帖子手势
 - 用夜间模式代替深色模式
 - 用赞踩差数代替赞数
 - 交换吧热门与最新
