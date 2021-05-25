@@ -2,7 +2,9 @@
 
 提供修改百度贴吧底栏等个性化功能。An Xposed module for Baidu Tieba with personalized functions.
 
+[![Android CI](https://github.com/GuhDoy/TiebaTS/workflows/Android%20CI/badge.svg)](https://github.com/GuhDoy/TiebaTS/actions)
 [![Chat](https://img.shields.io/badge/Telegram-Chat-blue.svg?logo=telegram)](https://t.me/TabSwitch)
+[![Stars](https://img.shields.io/github/stars/GuhDoy/TiebaTS?label=Stars)](https://github.com/GuhDoy/TiebaTS)
 [![Download](https://img.shields.io/github/v/release/GuhDoy/TiebaTS?label=Download)](https://github.com/GuhDoy/TiebaTS/releases/latest)
 
 ## 功能
@@ -19,14 +21,14 @@
 - 我的收藏增加搜索、吧名
 - 浏览历史增加搜索
 - 楼层回复增加查看主题贴
+- 楼层增加水波纹点按效果
 - 长按下载保存全部图片
 - 长按关注的人设置备注名（仅支持 12.4.8.15 及以前版本）
 - 自动签到
-- 更新时清理缓存
+- 自动切换夜间模式
 - 自动查看原图
-- 存储重定向
+- 保存图片重定向
 - 禁用帖子手势
-- 用夜间模式代替深色模式
 - 用赞踩差数代替赞数
 - 交换吧热门与最新
 
